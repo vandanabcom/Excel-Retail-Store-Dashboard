@@ -15,6 +15,7 @@ Generate business insights
 Microsoft Excel
 
 📚 Excel Skills Used
+
 Data Cleaning
 XLOOKUP
 IF & IFERROR
@@ -23,6 +24,7 @@ Pivot Charts
 Slicers
 Conditional Formatting
 Dashboard Design
+
 📂 Dataset
 
 The project uses a synthetic retail sales dataset created for learning and portfolio purposes.
@@ -45,7 +47,9 @@ Average Order Value
 Highest Sale
 Total Orders
 Profit Margin
+
 📈 Dashboard Features
+
 Revenue by Product
 Revenue by City
 Profit by Category
@@ -57,7 +61,11 @@ Interactive Filters (Slicers)
 💡 Key Business Insights
 
 Laptop generated the highest revenue.
+
 Jaipur was the top-performing city.
+
 Electronics contributed the highest share of revenue.
+
 Revenue and profit peaked in January, March, and December.
+
 The dashboard helps identify high-performing products and regions.
